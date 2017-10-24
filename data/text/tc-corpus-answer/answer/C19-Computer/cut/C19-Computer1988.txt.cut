@@ -1,0 +1,15 @@
+微型,微型机,应用,
+MICROCOMPUTER,ITS,APPLICATIONS
+1999,18,卷,Vol,18,No,1999
+
+
+
+Unix,系统,两个,2000,问题,相关,命令,解决,方法,李,爱国,叶,臻,杰,摘,介绍,Unix,系统,2000,问题,相关,命令,提出,了解,解决,方法,并用,C,语言,关键,模块,进行,实现,关键,关键词,Unix,系统,2000,问题,GMT,时间,问题,提出,Unix,系统,一种,分时,多任务,任务,多用,多用户,用户,操作,操作系统,系统,目前,大型,应用,应用领域,领域,广为,流行,邮电,金融,税务,2000,临近,该系,系统,存在,2000,相关,世纪,问题,以下,简称,Y2K,问题,如常,显示,修改,系统,日期,时间,命令,asktime,date,2000,年后,均,不能,正确,设置,系统,日期,时间,命令,asktime,设置,系统,日期,时间,格式,yymmdd,hhmm,yy,接收,年份,位数,数字,输入,98,代表,1998,Unix,系统,GMT,格林,格林威治,时间,1970,月,日,00,00,00,所经,秒数,计时,时间,yy,70,命令,设置,系统,时间,均,1970,70,yy,99,系统,系统对,对应,时间,1970,1999,过上,上述,分析,命令,asktime,根本,不能,正确,设置,1999,年后,日期,命令,date,日期,设置,设置成,2000,年后,存在,误差,date,命令,无法,正确,判断,2000,是否,润,想,系统,时间,设置,设置成,2000,月,27,日,11,25,命令,date,0727112500,系统,日期,2000,月,28,日,11,25,Unix,系统,命令,存在,Y2K,问题,解决,方法,了解,解决,Unix,系统,命令,Y2K,问题,方法,一对,相关,命令,进行,修改,二重,重写,相关,命令,人手,手头,无相,相关,命令,源码,重写,相关,命令,更,容易,笔者,asktime,命令,进行,重写,好地解决,解决,命令,Y2K,问题,程序,程序设计,设计,思想,Unix,系统,提供,几个,设置,系统,时间,库,例行,例行程序,行程,程序,settime,newtime,newtime,定义,成长,整形,1970,月,日,00,00,00,所经,秒数,数计,计算,计算出来,算出,赋,newtime,调用,该函,函数,系统,日期,时间,设置,设置成,现在,日期,时间,程序,程序设计,设计,关键,计算,newtime,涉及,润,润,月,判断,问题,程序,程序实现,实现,程序,程序实现,实现,关键,计算,newtime,求,newtime,关键,计算,设置,日期,1970,月,日,相减,所得,实际,天数,下面,以求,求实,实际,天数,简要,介绍,程序,实现,方法,参数,说明,入口,参数,qrq,yy,qrq,mm,qrq,dd,起始,日期,月,日,zrq,yy,zrq,mm,zrq,dd,终止,日期,月,日,出口,参数,compute,ts,起始,日期,终止,日期,之间,天数,
+int,computets,int,qrqyy,int,qrqmm,int,qrqdd,int,zrqyy,int,zrqmm,int,zrqdd,char,yn,bz,int,ys,rq1,sjts,if,qrqyy,zrqyy,qrqyy,zrqyy,qrqmm,zrqmm,qrqyy,zrqyy,qrqmm,zrqmm,qrqdd,zrqdd,qrqyy,zrqyy,qrqmm,zrqmm,qrqdd,zrqdd,sjts,终止,日期,大于,起始,日期,sjts,sjts,else
+,sjts,strcpy,yn,do,++qrqdd,if,qrqdd,28,switch,qrqmm,case,月份,10,12,当起,起始,日期,31,case,起始,日期,减去,31,月份,判断,月份,是否,大于,12,case,大于,12,月份,减去,12,年份,case,case,case,10,case,12,if,qrqdd,31,qrqdd,31,qrqmm+,if,qrqmm,12,qrqmm,12,qrqyy+,break,case,月份,判断,起始,日期,天数,是否,大于,30,case,case,case,11,if,qrqdd,30,qrqdd,30,qrqmm+,if,qrqmm,12,qrqmm,12,qrqyy+,break,case,月份,且为,润,判断,起始,日期,天数,是否,大于,29,是否,大于,28,if,qrqyy,qrqyy,100,qrqyy,400,qrqyy,qrqyy,100,strcpy,bz,else
+,strcpy,bz,if,strcmp,bz,qrqdd,29,qrqdd,29,
+qrqmm+,if,qrqmm,12,qrqmm,12,
+qrqyy+,if,strcmp,bz,qrqdd,28,qrqdd,28,
+qrqmm+,if,qrqmm,12,qrqmm,12,
+qrqyy+,break,if,qrqyy,zrqyy,qrqyy,zrqyy,qrqmm,zrqmm,qrqyy,zrqyy,qrqmm,zrqmm,qrqdd,zrqdd,sjts+,起始,日期,不大,大于,终止,日期,变量,sjts,else
+,strcpy,yn,起始,日期,大于,终止,日期,赋,变量,yn,while,strcmp,yn,变量,yn,结束,循环,retrun,sjts,返回,实际,天数,sjts,几点,说明,采用,相同,方法,命令,date,进行,重写,存储,日历,历时,时间,计数,计数器,31,2038,月,19,日,14,以前,足够,空间,存储,日历,历时,时间,时间,以后,计数,计数器,溢出,不能,能用,上述,方法,正确,设置,系统,时间,newtime,GMT,1970,月,日,秒,秒数,注意,北京,时间,GMT,时间,相差,时区,Y2K,问题,SCO,公司,推出,张,补丁,盘,UOD426B,XNX427E,用于,解决,Unix,Xenix,操作,操作系统,系统,Y2K,问题,张,补丁,盘,软件,提供,提供商,索取,internet,下载,网址,WWW,SCO,COM,作者,单位,农业,农业银行,银行,常德,常德市,市分,分行,科技,电脑,电脑部,脑部,415000,参考,参考文献,文献,钱,培,德,Unix,系统,程序,程序设计,设计,技术,北京,北京,科海,高技,高技术,技术,公司,培训,培训中心,中心,杨,华中,Unix,应用,教程,北京,人民,人民邮电,人民邮电出版社,邮电,出版,出版社,收稿,日期,1998,08,24

@@ -1,0 +1,7 @@
+计算,计算机,算机,应用,
+COMPUTER,APPLICATIONS
+1999,19,卷,10,Vol,19,No,10,1999
+
+
+
+JDK,多语种,语种,支持,路,骏,JDK,改变,主要,影响,三个,包,Java,util,增加,Locale,Locale,封装,局域,信息,国家,语种,日期,代码,提供,实际,局域,化,操作,没有,指定,一个,Locale,JDK1,环境,提取,缺省,Locale,us,en,java,io,中所,InputStream,OutputStream,流,工作,增加,相应,Reader,Writer,字符,流,新增,Reader,Writer,处理,16,国际,码,特性,以外,字节,节流,工作,字符,流,使用,大量,字符,字符集,转换,一个,原有,一层,输入,输入输出,输出,字节,节流,现在,对应,Reader,Writer,用字,字符,流完,完成,相似,功能,正在,开发,开发新,程序,以前,使用,InputStream,OutputStream,流,地方,相应,Reader,Writer,代替,JDK,提供,InputStreamReader,OutputWriter,两个,创建,建基,字节,节流,新,Reader,Writer,对象,Reader,Writer,类同,目前,使用,用字,字节,节流,兼容,java,txt,一个,完全,全意,意义,新,包,提供,处理,文本,支持,包括,文本,排序,格式,格式化,日期,数值,分析,相关,语言,数据,应用,JDK,提供,新方,方法,程序,中地,地区,化,标签,文本,处理,地区,化,信息,源程序,程序,封装,装到,支持,一个,Locale,对应,ResourceBundle,对象,指定,Locale,源,转译,译成,新,语言,习惯,实现,移植,作者,单位,中科,中科院,安徽,光机,光机所

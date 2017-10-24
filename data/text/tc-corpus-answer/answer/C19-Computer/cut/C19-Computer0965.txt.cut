@@ -1,0 +1,14 @@
+自动,自动化,化学,学报,
+ACTA,AUTOMATICA,SINICA
+1997,23,卷,Vol,23,No,1997
+
+
+
+
+,联想,记忆,神经,神经网,神经网络,网络,一个,有效,学习,算法,梁,学,斌,吴,立德,俞,俊,摘,提出,一种,新,联想,记忆,网络,模型,有效,学习,算法,具有,下述,特点,存储,任意,给定,训练,模式,集,训练,模式,数目,之间,相关,相关性,强弱,没有,有限,限制,最小,训练,模型,吸引,域,达到,最大,基础,每个,训练,模式,具有,尽可,尽可能,可能,吸引,域,联想,记忆,神经,神经网,神经网络,网络,全局,稳定,大量,计算,计算机,算机,仿真,真实,实验,充分,充分说明,分说,说明,提出,学习,算法,已有,算法,具有,更,强,存储,储能,能力,联想,容错,能力,关键,关键词,联想,记忆,网络,训练,模式,集,存储,最大,吸引,域,全局,稳定,稳定性,定性,
+AN,EFFICIENT,LEARNING,ALGORITHM,FOR,ASSOCIATIVE
+MEMORY,NEURAL,NETWORK
+LIANG,XUEBIN,WU,LIDE,YU,JUN
+,Dept,of,Computer,Science,Fudan,University,Shanghai,200433,
+Abstract,A,new,and,efficient,learning,algorithm,of,asociative,memory,neural,network,is,proposed,with,the,following,characteristics,it,can,store,any,given,training,pattern,set,no,matter,how,much,and,what,correlation,among,them,may,be,the,smallest,domain,of,attraction,of,training,patterns,is,maximized,each,domain,of,attraction,of,training,patterns,is,guaranteed,to,be,as,large,as,possible,the,designed,associative,memory,network,is,globally,stable,A,large,number,of,computer,experimental,results,confirm,that,our,algorithm,possesses,more,powerful,storage,ability,and,more,fault,tolerance,capability,than,existing,ones,
+Key,words,Associative,memory,training,pattern,set,total,storage,ability,maximized,domain,of,attraction,global,stability,引言,联想,记忆,神经,神经网,神经网络,网络,可分,分为,自反,反馈,自反,反馈,两种,模型,具有,信息,记忆,信息,联想,功能,能够,部分,分信,信息,或有,适当,畸变,信息,联想,想出,相应,存储,联想,记忆,神经,神经网,神经网络,网络,完整,记忆,信息,性能,主要,学习,算法,决定,已经,提出,不少,联想,记忆,神经,神经网,神经网络,网络,学习,算法,主要,Hebbian,学习,算法,投影,学习,算法,Gardner,学习,算法,最小,重叠,学习,算法,Ho,Kashyap,学习,算法,神经,神经元,训练,模式,加权,学习,算法,优化,化学,学习,算法,优化,化学,学习,算法,严格,考虑,提高,联想,记忆,神经,神经网,神经网络,网络,存储,储能,能力,联想,容错,能力,文献,思想,本文,提出,设计,联想,记忆,网络,极大,极小,准则,要求,设计,对称,连接,权,阵,应,网络,最小,记忆,模式,吸引,域,达到,最大,并进,进一步,一步,发展,综合,联想,记忆,网络,一个,有效,学习,算法,具有,有如,特点,存储,任意,给定,训练,模式,集,最小,训练,模式,吸引,域,达到,最大,基础,每个,训练,模式,具有,尽可,尽可能,可能,吸引,域,网络,网络连接,连接,权,阵,主,对角,元,对称,阵,所设,设计,联想,记忆,神经,神经网,神经网络,网络,全局,稳定,11,自反,反馈,网络,模型,训练,式,集,基本,约束,联想,记忆,神经,神经网,神经网络,网络,模型,N,互联,神经,神经元,元组,组成,非线性,线性,动力,动力系统,力系,系统,网格,格状,状态,v,v1,vN,t,vi,i,N,表示,i,神经,神经元,状态,取值,空间,网络,网络连接,连接,权,阵,W,Wij,N,N,Wij,表示,j,神经,神经元,i,神经,神经元,连接,权,联想,记忆,神经,神经网,神经网络,网络,模型,表述

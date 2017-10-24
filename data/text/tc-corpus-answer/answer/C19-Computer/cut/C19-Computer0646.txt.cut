@@ -1,0 +1,12 @@
+自动,自动化,化学,学报,
+ACTA,AUTOMATICA,SINICA
+1998,24,卷,Vol,24,No,1998
+
+
+
+,一类,挠性,航天,航天器,大角,角度,快速,快速机动,机动,模型,跟踪,控制,李,勇,吴,宏,鑫,摘,研究,一类,构形,中心,刚体,带,挠性,梁,航天,航天器,平面,大角,角度,快速,快速机动,机动,控制,问题,推导,系统,非线性,线性,无穷,维,模型,设计,一种,利用,中心,刚体,旋转,转角,角速度,速度,测量,数据,模型,跟踪,控制,方案,无穷,维空间,空间,LaSalle,不变,原理,证明,相应,闭环,系统,渐近,稳定,稳定性,定性,给出,物理,实验,验证,所设,设计,控制,控制算法,算法,有效,有效性,关键,关键词,挠性,航天,航天器,大角,角度,机动,模型,跟踪,控制,
+MODEL,FOLLOWING,CONTROL,FOR,LARGE,ANGLE,RAPID
+MANEUVERING,OF,A,FLEXIBLE,SPACECRAFT
+LI,YONG,WU,HONGXIN,Beijing,Institute,of,Control,Engineering,Beijing,100080,
+Abstract,This,paper,is,concerned,with,the,control,for,planar,large,angle,rapid,slew,maneuvering,of,a,flexible,spacecraft,consisting,of,a,rigid,central,body,and,a,flexible,beam,A,nonlinear,infinite,dimensional,model,of,the,system,is,derived,By,using,the,measurements,of,the,attitude,angle,of,the,rigid,central,body,and,its,velocity,only,a,kind,of,model,following,control,law,is,presented,Based,upon,the,LaSalle,s,invariance,principle,in,infinite,dimensional,spaces,it,is,shown,that,implementation,of,the,control,algorithm,results,in,asymptotic,stability,of,the,closed,loop,system,Some,experimental,results,are,presented,showing,the,effectness,of,the,designed,control,algorithm,
+Key,words,Flexible,spacecraft,large,angle,rapid,maneuvering,model,following,control,引言,新一代,一代,航天,航天器,带有,挠性,部件,这类,航天,航天器,姿态,机动,动力,动力学,力学,模型,本质,非线性,线性,无穷,维系,系统,以往,大量,研究,考虑,机动,角度,机动,速率,较慢,情形,常用,方法,一种,线性,穷,维,模型,近似,无穷,维,模型,运用,集中,参数,数控,控制,控制系统,系统,统理,理论,设计,控制,方案,一种,系统,近似,线性,无穷,维,模型,设计,控制,方案,Morg,l,文,中建,建立,系统,模型,忽略,部分,难以,分析,非线性,线性,项,大角,角度,快速,快速机动,机动,动情,情形,系统,模型,非线性,线性,项,不能,忽略,而有,必要,研究,系统,本质,非线性,线性,无穷,维,模型,控制,方案,设计,问题,本文,研究,一类,构形,中心,刚体,带,挠性,梁,航天,航天器,平面,大角,角度,快速,快速机动,机动,控制,问题,推导,系统,非线性,线性,无穷,维,模型,设计,一种,模型,跟踪,控制,方案,证明,相应,闭环,系统,渐近,稳定,稳定性,定性,给出,物理,实验,验证,所设,设计,控制,控制算法,算法,有效,有效性,动力,动力学,力学,模型,控制,目的,考虑,图,所示,挠性,航天,航天器,中心,刚体,R,连在,刚体,R,长度,l,均匀,挠性,梁,E,构成,刚体,R,转动,转动惯量,惯量,Jm,质心,O,质量,远大,远大于,大于,挠性,梁,质量,刚体,R,限定,只能,绕,O,垂直,垂直轴,旋转,转运,运动,挠性,梁,E,水平,水平面,平面,运动,O,e1,e2,e3,O,原点,e1,轴,垂直,垂直轴,惯性,正交,坐标,坐标系,N,e1,e2,e3,单位,单位向量,向量,O,b1,b2,b3,O,原点,b1,轴,e1,轴重,重合,连在,刚体,正交,坐标,坐标系,B,b1,b2,b3,单位,单位向量,向量,b2,轴,方向,梁,未变,变形,方向,一致

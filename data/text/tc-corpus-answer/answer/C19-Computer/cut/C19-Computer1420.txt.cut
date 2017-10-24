@@ -1,0 +1,14 @@
+自动,自动化,化学,学报,
+ACTA,AUTOMATICA,SINICA
+1997,23,卷,Vol,23,No,1997
+
+
+
+,一类,新,知识,知识型,指纹,指纹图,图像,非线性,线性,滤波,方法,倪,林,肇,祺,王,文,渊,摘,给出,于小波,小波,变换,尺度,边缘,表示,方法,图像,信号,表示,完备,性,相应,重建,算法,稳定,稳定性,定性,小波,变换,尺度,极大,极大值,大值,表示,方法,基础,提出,尺度,尺度空间,度空间,空间,多种,知识,指纹,指纹图,图像,非线性,线性,滤波,方法,实验,表明,这类,滤波,方法,具有,强,自适,自适应性,适应,适应性,能取,取得,得令,令人,令人满意,满意,效果,关键,关键词,小波,变换,尺度,边缘,表示,尺度,极大,极大值,大值,表示,指纹,指纹图,图像,非线性,线性,滤波,
+A,NOVEL,KNOWLEDGE,BASED,NON,LINEAR,FILTERING
+METHOD,FOR,FINGERPRINT,IMAGES
+NI,LIN,BIAN,ZHAOQI,WANG,WENYUAN
+,Department,of,Automation,Tsinghua,Univ,Beijing,100084,
+Abstract,This,paper,first,described,the,multiscale,edge,representation,of,images,in,the,wavelet,transform,domain,and,also,discussed,the,representations,completeness,and,the,stability,of,the,corresponding,reconstruction,algorithm,Then,using,the,multiscale,maxima,representation,based,on,the,wavelet,transform,we,proposed,for,fingerprint,images,a,non,linear,filtering,method,which,was,constrained,by,several,kinds,of,knowledge,in,the,scale,space,The,experimental,results,show,that,this,filtering,method,has,more,adaptive,performance,and,can,obtain,satisfactory,results,
+Key,words,Wavelet,transform,multiscale,edge,representation,multiscale,maxima,representation,alternate,projection,algorithm,non,linear,filtering
+1,引言,S,Mallat,利用,小波,变换,域,尺度,极大,极大值,大值,Multiscale,Maxima,表示,方法,MMR,实现,图像,尺度,边缘,表示,这种,表示,方法,二维,图像,内容,f,x,y,三维,尺度,尺度空间,度空间,空间,Wf,s,x,y,展开,得到,原始,图像,不同,尺度,内容,提供,更多,原始,图像,信息,想见,信息,形成,图像,图像处理,处理,方法,法会,具有,更,强,针对性,实现,尺度,尺度空间,度空间,空间,图像,图像处理,处理,方法,先会,遇到,MMR,完备,性,问题,上述,表示,方法,交替,投影,重建,算法,稳定,稳定性,定性,问题,次要,找到,MMR,原始,图像,局部,内容,对应,关系,知识,而使,图像,图像处理,处理,方法,具有,强,目的,目的性,有效,有效性,本文,介绍,S,Mallat,Z,Berman,工作,说明,MMR,图像,具有,唯一,唯一性,相应,重建,算法,表现,现出,稳定,稳定性,定性,此基础,基础,利用,指纹,指纹图,图像,相关,知识,提出,多种,知识,约束,尺度,极大,极大值,大值,表示,指纹,指纹图,图像,非线性,线性,滤波,方法,于小波,小波,变换,图像,尺度,边缘,表示,尺度,边缘,表示,实现,以下,先考,考虑,一维,情况,推广,二维,情况,定义,平滑,函数,x,必须,满足

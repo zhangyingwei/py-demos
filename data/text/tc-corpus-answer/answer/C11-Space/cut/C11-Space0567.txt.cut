@@ -1,0 +1,14 @@
+航空,计测,技术,
+AVIATION,METROLOGY,MEASUREMENT,TECHNOLOGY
+1999,No,1999
+
+
+
+Wollaston,棱镜,方位,激光,干涉,测量,精度,影响,张,琢,刘丽华,瀛,洁,李鹏,生,摘,双频,激光,干涉,测量,系统,Wollaston,棱镜,不可,缺少,重要,光学,元件,双频,激光,偏振,方向,分为,测量,参考,实现,高精度,精度,测量,Wollaston,棱镜,安装,方位,位相,入射,入射光,光线,光线方向,方向,聚焦,透镜,距离,不同,测量,不同,本文,结合,表面,粗糙,粗糙度,激光,测量,系统,理论,定量,定量分析,量分析,分析,Wollaston,棱镜,安装,方位,测量,精度,影响,关键,关键词,Wollaston,棱镜,方位,精度,
+Influence,of,Orientation,of,Wollaston,Prism,on,Accuracy,of,Laser
+Interference,Measuring,System
+Zhang,Zuo,Liu,Lihua,Yu,Yingjie,Li,Pengsheng
+,Abstract,In,dual,frequency,laser,interference,measuring,system,Wollaston,prism,is,an,indispensable,and,important,device,which,can,separate,the,incident,beam,in,to,measurement,beam,and,reference,beam,according,to,the,polarization,direction,of,dual,frequency,laser,so,as,to,realize,the,high,accuracy,measurement,But,if,the,installation,orentation,of,Wollaston,prism,relative,to,the,incident,beam,and,the,distance,between,the,prism,and,the,focus,lens,are,different,The,measurement,result,will,be,different,In,this,paper,combining,with,the,surface,roughness,laser,measuring,system,the,influence,of,the,orientation,of,Wollaston,prism,on,accuracy,of,measurement,is,analyzed,in,theory,and,quantitatively,Key,words,Wollaston,prism,Orientation,Accuracy
+
+1,测量,原理,图,激光,干涉,表面,粗糙,粗糙度,测量,原理,原理图,双频,激光,激光器,光器,发出,两个,频率,略有,差异,左右,右旋,圆,偏振,偏振光,f1,f2,波,片,变成,两个,偏振,方向,互相,垂直,线偏振,偏振,偏振光,阑,倒置,望远,望远镜,分光,分光镜,光镜,分成,两束,第一,第一束,一束,检偏器,聚焦,透镜,光电,接收,接收器,接收,第二,第二束,反射,反射镜,转向,并经,Wollaston,棱镜,10,分为,f1,f2,两束,光线,两束,光线,透过,物镜,射向,测,表面,面上,f1,f2,两束,光线,照射,测,工件,不同,不同点,同点,表面,起伏,两束,光程,差,发生,发生变化,生变,变化,反射,反射光,Wollaston,棱镜,汇合,合成,一束,并经,检偏器,聚焦,镜,第二,第二路,二路,光电,接收,接收器,接收,两路,光电,接收,接收器,测量,信号,进行,处理,测得,测,表面,粗糙,粗糙度,已经,成熟,技术,不详,详细,叙述,Wollaston,棱镜,安装,方位,测量,精度,影响,Wollaston,棱镜,聚焦,透镜,距离,从实,实验,中发,发现,Wollaston,棱镜,分光,光面,聚焦,物镜,焦,距离,调整,不好,导致,测,表面,返回,两束,光线,不能,重合,不能,发生,干涉,下面,就此,现象,结合,合上,上述,测量,原理,进行,理论,分析,图,所示,入射,入射光,Wollaston,棱镜,偏振,方向,分为,分光,光面,法线,夹角,两束,光线,两束,光线,透镜,入射,射到,测,表面,W,Y,入射,入射角,射角,J,I,返回,两条,测量,光线,入射,射到,Wollaston,棱镜,分光,光面,面上,G,K,距离,x,分光,光面,夹角,考虑,分光,光面,面对,透镜,主平面,平面,倾角,计算,可求,求得,
+x,h,f,tg,tg

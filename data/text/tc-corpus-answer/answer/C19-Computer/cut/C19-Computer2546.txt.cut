@@ -1,0 +1,17 @@
+软件,学报,
+JOURNAL,OF,SOFTWARE
+1999,No,1999
+
+
+
+,替换,集合,运算,错误,程,晓,春,姜,飞,摘要,指出,使用,归结,方法,自动,推理,文献,存在,提升,引理,删除,策略,完备,性,定理,证明,替换,集合,运算,几个,错误,予以,分析,改正,关键,关键词,归结,替换,合一,集合,删除,策略,中图,中图法,图法,分类,分类号,TP18
+Errors,Related,to,Substitution,and,Set,Operations,
+CHENG,Xiao,chun1,Jiang,Yun,fei3,Abstract,In,this,paper,some,errors,related,to,substitution,and,set,operations,in,the,proof,procedures,of,lifting,lemma,and,the,completeness,theorem,of,deletion,strategy,which,are,in,the,literatures,on,resolution,based,automated,reasoning,are,pointed,out,analyzed,and,corrected,Key,words,Resolution,substitution,unification,set,deletion,strategy,高效,推理,推理方法,方法,研究,重要,意义,可用,用于,满足,性,问题,求解,归结,原理,已有,子句,产生,新,子句,推理,规则,归结,演绎,过程,可能,产生,大量,对证,证明,无用,子句,提高,归结,演绎,效率,生成,无用,子句,删除,策略,删除,一部,一部分,部分,本文,指出,使用,归结,方法,自动,推理,文献,存在,提升,引理,删除,策略,完备,性,定理,证明,替换,集合,运算,几个,错误,予以,分析,改正,提升,引理,证明,错误,Chang,文献,84,页,85,页,提升,引理,证明,使用,断言,C,is,a,resolvent,of,C1,and,C2,C,C,and,is,more,general,than,Clearly,C,is,an,instance,of,C,断言,错误,反例,
+C1,P,y,P,x,C2,P,a,Q,a,C,P,a,P,x,C,P,a,Q,a,C2,r1,r2,L1,P,x,L2,P,a,a,x,x,替换,换为,a,a,y,y,替换,换为,a,a,x,x,替换,换为,a,C,P,y,P,a,P,a,P,a,Q,a,P,a,P,y,Q,a,C,P,a,P,a,P,a,P,a,Q,a,P,a,Q,a,
+C,C,错误,原因,不等,等于,C1,L1,不能,保证,反例,所示,C1,合一,文字,C1,C1,合一,文字,未必,必是,断言,错误,说明,Chang,文献,提升,引理,证明,错误,不能,说明,提升,引理,错误,事实,事实上,提升,引理,正确,1987,刘,叙,华,姜,飞,文献,60,页,63,页,给出,提升,引理,一个,修正,证明,1989,Leitsch,指出,Chang,上述,错误,删除,策略,完备,性,定理,证明,错误,文献,71,页,给出,删除,策略,一种,定义,S,子句,集,下面,子句,序列,是从,S,出发,推出,C,一个,演绎,D,C1,C2,Ck,C,Ci,i,k,重言,重言式,Ci,Cj,包含,j,i,Ci,演绎,删除,称,对此,演绎,D,实行,删除,策略,文献,71,页,给出,删除,策略,完备,性,定理,刘,叙,华,姜,飞,文献,72,页,删除,策略,完备,性,定理,证明,有如,几处,错误,错误,行,C,L1,L1,G,G,子句,L1,原子,C,D,归结,文字,C,L1,D,中文,文字,L2,R,C,D,D,G,D,R,C,D,D,R,C,D,正确,R,C,D,D,g,错误,反例,
+C,P,x,P,x,P,a,L1,P,x,G,P,a,D,P,a,L2,P,a,a,x,x,替换,换为,a,R,C,D,C,D,L2,P,a,P,a,P,a,P,a,P,a,P,a,P,a,D,G,P,a,P,a,显然,R,C,D,D,G,错误,D,R,C,D,改正,证明,
+R,C,D,C,D,L2,G,D,c,L1,D,L2,归结,文字,显然,R,C,D,L,D,L,D,D,R,C,D,错误,15,17,行,C,D1,应为,C,D1,D1,L1,D,D2,L2,D,
+D,D,子句,L1,L2,mgu,R,D1,D2,D,D,反例,
+L1,L1,L1,D2,L2,L2,L1,L2,mgu,R,D1,D2,d,D,错误,18,19,行,D2,L2,D,L1,L2,mgu,L1,C,C,L1,C,R,C,D2,C,D,反例,
+C,l1,L1,D2,L2,L2,L1,L2,mgu,C,L1,D,L2,R,C,D2,C,C,D,上述,错误,没有,影响,删除,策略,完备,性,正确,证明,定理,删除,策略,完备,性,S,不可,满足,子句,集,果在,归结,演绎,使用,删除,策略,仍然,存在,S,出发,推出,空子,子句,归结,演绎,证明,分析,s,中子,子句,两个,个性,性质,性质,C1,为重,重言,重言式,C1,C2,归结,结式,R,C1,C2,R,C1,C2,或为,为重,重言,重言式,C2,包含,C1,L1,l,G,G,子句,L1,L,互补,C1,C2,归结,原子,mgu,C1,L1,C2,l2,归结,文字,
+R,C1,C2,G,显然,R,C1,C2,R,C1,C2,C2,包含,C1,归结,文字,L,同理,同理可证,R,C1,C2,C2,包含,C1,归结,文字,L1,L,R,C1,C2,R,C1,C2,重言,重言式,性质,C1,包含,C2,C3,任一,C2,归结,结式,R,C2,C3,子句,R,C2,C3,C1,包含,C3,C1,归结,结式,R,C1,C3,R,C1,C3,包含,R,C2,C3,C1,C2,L2,L3,C2,C3,归结,文字,L2,L3,中原,原子,mgu,R,C2,C3,L2,C3,归结,结式,R,C3,C2,R,C3,R,C2,C3,归结,提升,引理,存在,C1,C3,归结,结式,R,C1,C3,满足,R,C1,C3,R,C3,R,C2,C3,R,C1,C3,包含,R,C2,C3,L2,文字,满足,L2,合一,文字,C3,L3,合一,文字,L3
