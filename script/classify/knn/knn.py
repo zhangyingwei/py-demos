@@ -15,4 +15,9 @@ print lines
 
 knn.fit(lines,labels)
 test = ['40920', '8.326976', '0.953952']
-print knn.predict(numpy.array([test]))
+# print knn.predict(numpy.array([test]))
+
+# print knn.kneighbors(lines)
+
+print knn.kneighbors_graph(lines).toarray()
+
